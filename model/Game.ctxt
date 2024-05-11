@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Game()
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Game\n\n
+comment1.target=boolean\ end()
+comment1.text=\nend\ -\ determines\ if\ the\ game\ is\ over\n\n
+comment2.target=void\ play()
+comment2.text=\nplay\ -\ each\ player\ has\ their\ turn\n\n
+comment3.params=player
+comment3.target=void\ play(Player)
+comment3.text=\nplay\ -\ each\ player\ has\ their\ turn\n\n
+comment4.target=Player\ player()
+comment5.target=Player\ computer()
+comment6.target=void\ show()
+comment6.text=\nshow\ -\ display\ the\ data\ for\ each\ player\n\n
+numComments=7

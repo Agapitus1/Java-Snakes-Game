@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Player(String)
+comment0.text=\nConstructor\ for\ objects\ of\ class\ Player\n\n
+comment1.params=number
+comment1.target=void\ play(int)
+comment1.text=\nplay\ -\ roll\ the\ dice\ and\ increment\ the\ score\n\n
+comment2.params=number
+comment2.target=void\ move(int)
+comment2.text=\nmove\ -\ move\ the\ player\ position\n\n
+comment3.target=int\ getScore()
+comment3.text=\ngetScore\ -\ returns\ the\ value\ of\ the\ score\ attribute\n\n
+comment4.target=String\ getName()
+comment4.text=\ngetName\ -\ returns\ the\ value\ of\ the\ name\ attribute\n\n
+comment5.params=name
+comment5.target=void\ setName(String)
+comment5.text=\nsetName\ -\ set\ the\ value\ of\ the\ name\ attribute\n\n
+comment6.target=String\ toString()
+comment6.text=\ntoString\ -\ returns\ the\ value\ of\ the\ attributes\ as\ a\ String\n\n
+numComments=7

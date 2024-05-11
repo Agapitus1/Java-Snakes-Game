@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=game
+comment0.target=NameWindow(Game)
+comment1.target=void\ setup()
+comment2.params=game
+comment2.target=void\ build(Game)
+comment3.target=void\ update()
+numComments=4
